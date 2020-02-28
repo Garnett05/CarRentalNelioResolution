@@ -1,0 +1,11 @@
+D:\Documentos\C#\CarRentalNelioResolution\CarRentalNelioResolution\bin\Debug\netcoreapp3.0\CarRentalNelioResolution.exe
+D:\Documentos\C#\CarRentalNelioResolution\CarRentalNelioResolution\bin\Debug\netcoreapp3.0\CarRentalNelioResolution.deps.json
+D:\Documentos\C#\CarRentalNelioResolution\CarRentalNelioResolution\bin\Debug\netcoreapp3.0\CarRentalNelioResolution.runtimeconfig.json
+D:\Documentos\C#\CarRentalNelioResolution\CarRentalNelioResolution\bin\Debug\netcoreapp3.0\CarRentalNelioResolution.runtimeconfig.dev.json
+D:\Documentos\C#\CarRentalNelioResolution\CarRentalNelioResolution\bin\Debug\netcoreapp3.0\CarRentalNelioResolution.dll
+D:\Documentos\C#\CarRentalNelioResolution\CarRentalNelioResolution\bin\Debug\netcoreapp3.0\CarRentalNelioResolution.pdb
+D:\Documentos\C#\CarRentalNelioResolution\CarRentalNelioResolution\obj\Debug\netcoreapp3.0\CarRentalNelioResolution.csprojAssemblyReference.cache
+D:\Documentos\C#\CarRentalNelioResolution\CarRentalNelioResolution\obj\Debug\netcoreapp3.0\CarRentalNelioResolution.AssemblyInfoInputs.cache
+D:\Documentos\C#\CarRentalNelioResolution\CarRentalNelioResolution\obj\Debug\netcoreapp3.0\CarRentalNelioResolution.AssemblyInfo.cs
+D:\Documentos\C#\CarRentalNelioResolution\CarRentalNelioResolution\obj\Debug\netcoreapp3.0\CarRentalNelioResolution.dll
+D:\Documentos\C#\CarRentalNelioResolution\CarRentalNelioResolution\obj\Debug\netcoreapp3.0\CarRentalNelioResolution.pdb

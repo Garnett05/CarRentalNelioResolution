@@ -1,0 +1,15 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace CarRentalNelioResolution.Entities
+{
+    class Vehicle
+    {
+        public string Model { get; set; }
+
+        public Vehicle(string model) 
+        {
+        }
+    }
+}
